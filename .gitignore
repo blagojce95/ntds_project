@@ -12,6 +12,12 @@
 # IPython
 profile_default/
 ipython_config.py
+crawl_attempt_1.pickle
+crawl_attempt_2.pickle
+crawl_attempt_3.pickle
+hand_crawled.pickle
+hand_crawled.txt
+
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
