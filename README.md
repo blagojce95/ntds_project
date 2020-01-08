@@ -33,6 +33,8 @@ The project was created and tested with the following dependencies:
 - matplotlib
 ```
 
+## License
+This project is licensed under the terms of the MIT license.
 
 ## Authors
 
