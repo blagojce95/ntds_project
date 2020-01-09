@@ -6,7 +6,7 @@ One of the techniques that has become predominant for this task is formulating t
 
 In this project, we try to extend this approach by utilizing well known techniques from graph signal processing.
 The extension is consisted of two parts: 1) utilizing graph Fourier transform to switch from vertex graph domain to spectral graph domain, and 2) applying graph filters to denoise the obtained signals.
-Using these techniques we have achieved an improvement of \textbf{TODO}\% over our baseline model, the regular matrix factorization.
+Using these techniques we have achieved an improvement of 0.037 over our baseline model, the regular matrix factorization.
 
 
 ## Project Structure
