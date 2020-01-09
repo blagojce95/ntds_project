@@ -7,7 +7,7 @@ However, it is a standard problem that could be optimized with stochastic gradie
 
 In this project, we try to extend this approach by utilizing well known techniques from graph signal processing.
 The extension is consisted of two parts: 1) utilizing graph Fourier transform to switch from vertex graph domain to spectral graph domain, and 2) applying graph filters to denoise the obtained features.
-Using these techniques we have achieved an improvement of 4% over our baseline model -- the standard matrix factorization technique with SGD.
+Using these techniques we have achieved RMSE of 0.877, an improvement of 4% over our baseline model -- the standard matrix factorization technique with SGD.
 
 
 ## Project Structure
